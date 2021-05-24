@@ -1,4 +1,5 @@
 <?php
+
 if ( !isset($_GET['dan']) ) {
   $_GET['dan'] = "2";
 }
